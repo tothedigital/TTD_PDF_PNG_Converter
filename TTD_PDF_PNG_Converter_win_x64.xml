@@ -1,0 +1,14 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>TTD PDF ~ PNG Converter</title>
+<link></link>
+<description>TTD PDF ~ PNG Converter Application updates.</description>
+<language>en</language>
+<item>
+<title>Version 0.0.1</title>
+<sparkle:releaseNotesLink></sparkle:releaseNotesLink>
+<pubDate>Saturday, 28 May 2022 1:23:27 +0200</pubDate>
+<enclosure url="" sparkle:version="0.0.1" sparkle:dsaSignature="WQMRJE+kRoICZXAhq5b24WkgqcDs0z7gyBkGVw==" type="application/octet-stream"/>
+</item>
+</channel>
+</rss>
