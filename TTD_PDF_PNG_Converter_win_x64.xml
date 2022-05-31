@@ -6,9 +6,9 @@
 <language>en</language>
 <item>
 <title>Version 0.0.1</title>
-<sparkle:releaseNotesLink></sparkle:releaseNotesLink>
-<pubDate>Saturday, 28 May 2022 1:23:27 +0200</pubDate>
-<enclosure url="" sparkle:version="0.0.1" sparkle:dsaSignature="WQMRJE+kRoICZXAhq5b24WkgqcDs0z7gyBkGVw==" type="application/octet-stream"/>
+<sparkle:releaseNotesLink>https://raw.githubusercontent.com/tothedigital/TTD_PDF_PNG_Converter/main/TTD_PDF_PNG_Converter_releaseHistory.html</sparkle:releaseNotesLink>
+<pubDate>Sunday, 29 May 2022 1:23:27 +0200</pubDate>
+<enclosure url="https://github.com/tothedigital/TTD_PDF_PNG_Converter/releases/download/V0.0.1/TTD_PDF_PNG_Converter_setup_x64_v0.0.1.exe" sparkle:version="0.0.1" sparkle:dsaSignature="WQMRJE+kRoICZXAhq5b24WkgqcDs0z7gyBkGVw==" type="application/octet-stream"/>
 </item>
 </channel>
 </rss>
